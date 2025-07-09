@@ -93,6 +93,9 @@ body {
   .image-column {
     margin-bottom: 100px;
   }
+  .content-column {
+   margin-bottom: 100px;
+  }
 }
 @media (min-width: 1024px) {
   .content-column,
