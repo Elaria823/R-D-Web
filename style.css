@@ -20,6 +20,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  overflow-x: hidden;
   font-family: "Inter", sans-serif;
   background-color: var(--gray-100);
   overflow-x: hidden;
@@ -94,7 +95,7 @@ body {
     margin-bottom: 100px;
   }
   .content-column {
-   margin-bottom: 100px;
+    margin-bottom: 100px;
   }
 }
 @media (min-width: 1024px) {
